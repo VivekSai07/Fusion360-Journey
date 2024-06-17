@@ -21,9 +21,9 @@ Here are the tutorials I've followed:
 
 1. **Exercise 1:** Sketching, Extrusion, Pattern
 2. **Exercise 2:** Sketching, Extrusion
-3. **Exercise 3:** Creating Assemblies
-4. **Exercise 4:** Parametric Modeling
-5. **Exercise 5:** Advanced Surfacing Techniques
+3. **Exercise 3:** Pipe, Hole, Extrude, Pattern
+4. **Exercise 4:** 
+5. **Exercise 5:** 
 
 *(This list will be updated as I complete more tutorials)*
 
