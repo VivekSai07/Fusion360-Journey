@@ -27,6 +27,15 @@ Here are the tutorials I've followed:
 
 *(This list will be updated as I complete more tutorials)*
 
+## Exercise-1
+![Exercise 1](https://github.com/VivekSai07/Fusion360-Journey/blob/main/Exercise%201/Exercise-1.png)
+## Exercise-2
+![Exercise 2](https://github.com/VivekSai07/Fusion360-Journey/blob/main/Exercise%202/Exercise-2.png)
+## Exercise-3
+![Exercise 3](https://github.com/VivekSai07/Fusion360-Journey/blob/main/Exercise%203/Exercise-3.png)
+## Exercise-4
+![Exercise 4](https://github.com/VivekSai07/Fusion360-Journey/blob/main/Exercise%204/Exercise-4.png)
+
 ## Future Plans
 
 - Add more complex projects and exercises.
