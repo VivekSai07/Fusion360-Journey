@@ -25,6 +25,7 @@ Here are the tutorials I've followed:
 4. **Exercise 4:** Offset Extrude, Hole, Pattern, Combine
 5. **Exercise 5:** Extrude (Offset), Extrude (Cut), Mirror, Construction Axis, Construction Plane, Combine
 6. **Exercise 6:** Box, Extrude (Cut), Fillet, Chamfer, Revolve
+7. **Exercise 7:** Extrude (2 side), Extrude (Symmetry), Extrude (From Plane), Mirror, Combine
 
 *(This list will be updated as I complete more tutorials)*
 
@@ -40,6 +41,8 @@ Here are the tutorials I've followed:
 ![Exercise 5](https://github.com/VivekSai07/Fusion360-Journey/blob/main/Exercise%205/Exercise-5.png)
 ## Exercise-6
 ![Exercise 6](https://github.com/VivekSai07/Fusion360-Journey/blob/main/Exercise%206/Exercise-6.png)
+## Exercise-7
+![Exercise 7](https://github.com/VivekSai07/Fusion360-Journey/blob/main/Exercise%207/Exercise-7.png)
 
 ## Future Plans
 
