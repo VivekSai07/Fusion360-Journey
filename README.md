@@ -17,7 +17,7 @@ To view and interact with the files:
 
 ## Tutorials
 
-Here are the tutorials I've followed:
+Here are the tools I've learned:
 
 1. **Exercise 1:** Sketching, Extrusion, Pattern
 2. **Exercise 2:** Sketching, Extrusion
@@ -26,6 +26,7 @@ Here are the tutorials I've followed:
 5. **Exercise 5:** Extrude (Offset), Extrude (Cut), Mirror, Construction Axis, Construction Plane, Combine
 6. **Exercise 6:** Box, Extrude (Cut), Fillet, Chamfer, Revolve
 7. **Exercise 7:** Extrude (2 side), Extrude (Symmetry), Extrude (From Plane), Mirror, Combine
+8. **Exercise 8:** Extrude Symmetry, Tangent Line, Construction Lines, Hole, Trim
 
 *(This list will be updated as I complete more tutorials)*
 
@@ -43,6 +44,8 @@ Here are the tutorials I've followed:
 ![Exercise 6](https://github.com/VivekSai07/Fusion360-Journey/blob/main/Exercise%206/Exercise-6.png)
 ## Exercise-7
 ![Exercise 7](https://github.com/VivekSai07/Fusion360-Journey/blob/main/Exercise%207/Exercise-7.png)
+## Exercise-8
+![Exercise 8](https://github.com/VivekSai07/Fusion360-Journey/blob/main/Exercise%208/Exercise-8.png)
 
 ## Future Plans
 
