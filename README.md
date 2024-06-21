@@ -28,6 +28,7 @@ Here are the tools I've learned:
 7. **Exercise 7:** Extrude (2 side), Extrude (Symmetry), Extrude (From Plane), Mirror, Combine
 8. **Exercise 8:** Extrude Symmetry, Tangent Line, Construction Lines, Hole, Trim
 9. **Exercise 9:** Extrude, Extrude Cut, Sketch offset, Hole, Trim
+10. **Exercise 10:** Circle, Sketch Dimensions, Extrude Symmetry, Revolve, Construction Lines
 
 *(This list will be updated as I complete more tutorials)*
 
@@ -49,6 +50,8 @@ Here are the tools I've learned:
 ![Exercise 8](https://github.com/VivekSai07/Fusion360-Journey/blob/main/Exercise%208/Exercise-8.png)
 ## Exercise-9
 ![Exercise 9](https://github.com/VivekSai07/Fusion360-Journey/blob/main/Exercise%209/Exercise-9.png)
+## Exercise-10
+![Exercise 10](https://github.com/VivekSai07/Fusion360-Journey/blob/main/Exercise%2010/Exercise-10.png)
 
 ## Future Plans
 
