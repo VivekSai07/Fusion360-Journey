@@ -17,7 +17,7 @@ To view and interact with the files:
 
 ## Tutorials
 
-Here are the tools I've learned:
+Here are the tools & commands I've learned:
 
 1. **Exercise 1:** Sketching, Extrusion, Pattern
 2. **Exercise 2:** Sketching, Extrusion
