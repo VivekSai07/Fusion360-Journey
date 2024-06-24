@@ -32,6 +32,7 @@ Here are the tools & commands I've learned:
 11. **Exercise 11:** Extrude offset, Circular Pattern, Hole, two point circle, Center point arc, Sketch Dimensions, Fillet
 12. **Exercise 12:** Extrude Symmetry, Extrude Cut, Mirror, Hole, Fillet
 13. **Exercise 13:** Extrude Symmetry, Profile Selection, Hole Simple, Hole Counter Bore, Mirror Feature, Fillet
+14. **Exercise 14:** Extrude, Hole, Construction Lines, Fillet, Mirror, Rectangular Pattern
 
 *(This list will be updated as I complete more tutorials)*
 
@@ -61,6 +62,8 @@ Here are the tools & commands I've learned:
 ![Exercise 12](https://github.com/VivekSai07/Fusion360-Journey/blob/main/Exercise%2012/Exercise-12.png)
 ## Exercise-13
 ![Exercise 13](https://github.com/VivekSai07/Fusion360-Journey/blob/main/Exercise%2013/Exercise-13.png)
+## Exercise-14
+![Exercise 14](https://github.com/VivekSai07/Fusion360-Journey/blob/main/Exercise%2014/Exercise-14.png)
 
 ## Future Plans
 
