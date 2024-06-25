@@ -5,7 +5,6 @@ A collection of beginner tutorial exercises and projects created while learning 
 - **Exercise1, Exercise2, etc.:** These folders contain the `.f3d` files, Sketch Drawing, and sample image for each exercise.
 
 ## Getting Started
-
 To view and interact with the files:
 
 1. Clone this repository to your local machine:
