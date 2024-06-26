@@ -65,6 +65,9 @@ Here are the tools & commands I've learned:
 ## Exercise-14
 ![Exercise 14](https://github.com/VivekSai07/Fusion360-Journey/blob/main/Exercise%2014/Exercise-14.png)
 
+## Basic Robot
+![Basic Robot](https://github.com/VivekSai07/Fusion360-Journey/blob/main/Robot/Robot.png)
+
 ## Future Plans
 
 - Add more complex projects and exercises.
