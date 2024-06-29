@@ -35,8 +35,9 @@ Here are the tools & commands I've learned:
 15. **Exercise 15:** Extrude, Tangent Line, Fillet, Revolve, Trim, Combine
 16. **Exercise 16:** Surface Loft, Guide Rail, Extrude cut, Fillet, Spline
 17. **Exercise 17:** Box, Extrude (offset), Mirror ( feature ), Project, Mirror plane
-18. **Triangular Podium:** Extrude, Assembly, Joints, As-built joint, Contact Sets, Offset
-19. **Generated Rotor:**  Extrude, Revolve Joints, Fillet, Motion Study, Trim    
+18. **Exercise 18:** Extrude, Revolve, Project, Circular Pattern, Trim
+19. **Triangular Podium:** Extrude, Assembly, Joints, As-built joint, Contact Sets, Offset
+20. **Generated Rotor:**  Extrude, Revolve Joints, Fillet, Motion Study, Trim    
 
 *(This list will be updated as I complete more tutorials)*
 
@@ -74,6 +75,8 @@ Here are the tools & commands I've learned:
 ![Exercise 16](https://github.com/VivekSai07/Fusion360-Journey/blob/main/Exercise%2016/Exercise-16.png)
 ## Exercise-17
 ![Exercise 17](https://github.com/VivekSai07/Fusion360-Journey/blob/main/Exercise%2017/Exercise-17.png)
+## Exercise-18
+![Exercise 18](https://github.com/VivekSai07/Fusion360-Journey/blob/main/Exercise%2018/Exercise-18.png)
 ## Basic Robot
 ![Basic Robot](https://github.com/VivekSai07/Fusion360-Journey/blob/main/Robot/Robot.png)
 ## Triangular Podium
