@@ -47,7 +47,8 @@ Here are the tools & commands I've learned:
 27. **Exercise 27:** Circle, Shell, Extrude Symmetry, Tangent Line, Construction Lines, Hole, Fillet, Trim, Chamfer
 28. **Exercise 28:** Cylinder, Fillet, Hole, Thicken, Surface, Revolve
 29. **Triangular Podium:** Extrude, Assembly, Joints, As-built joint, Contact Sets, Offset
-30. **Generated Rotor:**  Extrude, Revolve Joints, Fillet, Motion Study, Trim    
+30. **Generated Rotor:**  Extrude, Revolve Joints, Fillet, Motion Study, Trim
+31. **Knuckle Joint:** Extrude offset, Fillet, Revolve, Circular Pattern, Sweep (Twist Angle), 
 
 *(This list will be updated as I complete more tutorials)*
 
@@ -113,6 +114,8 @@ Here are the tools & commands I've learned:
 ![Triangular Podium](https://github.com/VivekSai07/Fusion360-Journey/blob/main/Mechanisms/Triangular%20Podium/Triangular%20Podium.png)
 ## Generated Rotor
 ![Generated Rotor](https://github.com/VivekSai07/Fusion360-Journey/blob/main/Mechanisms/Generated%20Rotor/Generated%20Rotor.png)
+## Knuckle Joint
+![Knuckle Joint](https://github.com/VivekSai07/Fusion360-Journey/blob/main/Mechanisms/Knuckle%20Joint/Knuckle%20Joint.png)
 
 ## Future Plans
 
